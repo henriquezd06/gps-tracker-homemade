@@ -177,7 +177,7 @@ function iniciarWeb() {
 async function main() {
     console.log('');
     console.log('=====================================================');
-    console.log('  GPS TRACKER SERVER — UDP + PostgreSQL + WebSocket');
+    console.log('  GPS TRACKER SERVER v2 — UDP + PostgreSQL + WebSocket');
     console.log('  IP del servidor: ' + serverIP);
     console.log('=====================================================');
     console.log('');
